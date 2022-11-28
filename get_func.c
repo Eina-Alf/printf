@@ -3,7 +3,7 @@
 /**
 * get_func - search and return the correct function
 * @s: array to check
-* Return: return a function (if written correctly)
+* Return: return a fnction (if written correctly)
 **/
 
 int (*get_func(char s))(va_list)
