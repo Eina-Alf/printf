@@ -8,17 +8,20 @@ The available convertion specifiers are:
 
 + `%c`: Prints a single character.
 + `%s`: Prints a string of characters.
+
 In [`0-character_operations.c`](https://github.com/Eina-Alf/printf/blob/master/0-character_operations.c).
 
 ------------------
 
 + `%d`: Prints integers.
 + `%i`: Prints integers.
+
 In [`1-number_operations.c`](https://github.com/Eina-Alf/printf/blob/master/1-number_operations.c).
 
 ------------------
 
 + `%b`: Prints the binary representation of an unsigned decimal.
+
 In [`2-binary.c`](https://github.com/Eina-Alf/printf/blob/master/2-binary.c).
 
 ------------------
